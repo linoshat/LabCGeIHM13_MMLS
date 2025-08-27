@@ -1,12 +1,18 @@
 # LabCGeIHM13_MMLS
 
-### UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\
-## FACULTAD DE INGENIERÍA
-### DIVISIÓN DE INGENIERÍA ELÉCTRICA
-## INGENIERÍA EN COMPUTACIÓN
-### LABORATORIO DE COMPUTACIÓN GRÁFICA E INTERACCIÓN HUMANO COMPUTADORA
-## NOMBRE COMPLETO: Migueles Martínez Lino Shatini
-### Nº de Cuenta: 320178643
-## GRUPO DE LABORATORIO: 13
-### GRUPO DE TEORÍA: 02
-## SEMESTRE: 2026-1
+<p align="center">
+  <strong>UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</strong><br>
+  <strong>FACULTAD DE INGENIERÍA</strong><br>
+  <strong>DIVISIÓN DE INGENIERÍA ELÉCTRICA</strong><br>
+  <strong>INGENIERÍA EN COMPUTACIÓN</strong><br>
+  <strong>LABORATORIO DE COMPUTACIÓN GRÁFICA E INTERACCIÓN HUMANO COMPUTADORA</strong>
+</p>
+
+---
+<p align="center">
+  <strong>NOMBRE COMPLETO:</strong> Migueles Martínez Lino Shatini <br>
+  <strong>Nº de Cuenta:</strong> 320178643 <br>
+  <strong>GRUPO DE LABORATORIO:</strong> 13 <br>
+  <strong>GRUPO DE TEORÍA:</strong> 02 <br>
+  <strong>SEMESTRE:</strong> 2026-1
+</p>
